@@ -18,6 +18,8 @@ Situational Picture (ANSSI & BSI)](https://www.ssi.gouv.fr/uploads/2021/11/anssi
 
 [Kubernetes Hardening Guide (NSA)](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
 
+[Security Hardening Guide RedHat](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/security_hardening/overview-of-security-hardening-security-hardening)
+
 ## Devops 
 
 [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.de/-/en/Gene-Kim/dp/0988262592)
