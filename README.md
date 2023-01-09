@@ -16,6 +16,8 @@ Situational Picture (ANSSI & BSI)](https://www.ssi.gouv.fr/uploads/2021/11/anssi
 
 [Controlling the digital risk – the trust advantage (ANSSI)](https://www.ssi.gouv.fr/en/guide/controlling-the-digital-risk-the-trust-advantage/)
 
+[Kubernetes Hardening Guide (NSA)](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
+
 ## Devops 
 
 [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.de/-/en/Gene-Kim/dp/0988262592)
