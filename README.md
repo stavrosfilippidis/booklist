@@ -28,8 +28,7 @@ Situational Picture (ANSSI & BSI)](https://www.ssi.gouv.fr/uploads/2021/11/anssi
 
 ## Entrepreneurship 
 
-[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.de/-/en/Brad-Stone/dp/0316219266)
-
 [Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
-
+[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.de/-/en/Brad-Stone/dp/0316219266)
 [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
+
